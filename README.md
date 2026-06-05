@@ -36,6 +36,7 @@ End-to-end ML-проект прогнозирования оттока клие�
 
 ## Структура проекта
 
+```
 churn-predictor/
 ├── data/
 │   └── Telco-Customer-Churn.csv
@@ -47,7 +48,7 @@ churn-predictor/
 │   └── api.py
 ├── requirements.txt
 └── README.md
-
+```
 ## Установка и запуск
 
 ```bash
